@@ -64,9 +64,8 @@
 
 <div align="left">
   <p align="left"><b><font size="5">📈 My GitHub Activity</font></b></p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srinivasak-dev&layout=compact&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=00000000&count_private=true" alt="Most Used Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srinivasak-dev&layout=compact&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=00000000" alt="Most Used Languages"/>
 </div>
-
 <!-- Contribution Graph Always Visible -->
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=srinivas-skr&theme=react-dark&hide_border=true&area=true&color=58a6ff&line=58a6ff&point=c9d1d9" alt="Contribution Graph"/>
